@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Exile&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Exile&family=Playwrite+HU:wght@100..400&display=swap');
+@import "tailwindcss";
+
+
+@theme{
+    --color-primary:#547792;
+    --color-secondary:#213448;
+    --color-accent:#94B4C1;
+    --font-fancy: 'Exile', sans-serif;
+    --font-main: 'Playwrite HU' , sans-serif;
+}
+
+/* Primary:        #547792
+Background:     #213448
+Card Background:#FFFFFF
+Accent:         #94B4C1
+Text Light:     #ECEFCA */
